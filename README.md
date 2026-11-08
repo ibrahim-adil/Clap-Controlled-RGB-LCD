@@ -1,4 +1,4 @@
-s# Clap-Controlled RGB Lighting System with LCD Status Feedback
+# Clap-Controlled RGB Lighting System with LCD Status Feedback
 
 An interactive hardware and firmware project built using an Arduino Uno R3. This system detects distinct acoustic clap patterns, evaluates them within a timing window, translates them into custom RGB color states via PWM, and provides real-time status feedback through an LCD1602 display.
 
@@ -146,7 +146,5 @@ void setColor(int redValue, int greenValue, int blueValue) {
 }
 
 
-https://github.com/user-attachments/assets/171aef43-78b4-4901-bc8e-7ed5cb937e0a
-
-
+https://github.com/user-attachments/assets/ac73deb5-5c93-4142-b353-c27a5b04ef7d
 
